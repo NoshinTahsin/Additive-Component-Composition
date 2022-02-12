@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\bin\Debug\net5.0\ClassLibraryStepTracker.deps.json
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\bin\Debug\net5.0\ClassLibraryStepTracker.dll
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\bin\Debug\net5.0\ref\ClassLibraryStepTracker.dll
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\bin\Debug\net5.0\ClassLibraryStepTracker.pdb
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\obj\Debug\net5.0\ClassLibraryStepTracker.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\obj\Debug\net5.0\ClassLibraryStepTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\obj\Debug\net5.0\ClassLibraryStepTracker.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\obj\Debug\net5.0\ClassLibraryStepTracker.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\obj\Debug\net5.0\ClassLibraryStepTracker.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\obj\Debug\net5.0\ClassLibraryStepTracker.dll
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\obj\Debug\net5.0\ref\ClassLibraryStepTracker.dll
+C:\Users\ASUS\source\repos\ClassLibraryStepTracker\ClassLibraryStepTracker\obj\Debug\net5.0\ClassLibraryStepTracker.pdb
