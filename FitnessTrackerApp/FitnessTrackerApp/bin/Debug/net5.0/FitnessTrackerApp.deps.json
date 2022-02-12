@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v5.0": {
       "FitnessTrackerApp/1.0.0": {
         "dependencies": {
-          "ClassLibrarySleepTracker": "1.0.0.0"
+          "ClassLibrarySleepTracker": "1.0.0.0",
+          "ClassLibraryStepTracker": "1.0.0.0"
         },
         "runtime": {
           "FitnessTrackerApp.dll": {}
@@ -17,6 +18,14 @@
       "ClassLibrarySleepTracker/1.0.0.0": {
         "runtime": {
           "ClassLibrarySleepTracker.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClassLibraryStepTracker/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryStepTracker.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -31,6 +40,11 @@
       "sha512": ""
     },
     "ClassLibrarySleepTracker/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryStepTracker/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

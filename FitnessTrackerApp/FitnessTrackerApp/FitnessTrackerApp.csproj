@@ -9,6 +9,9 @@
     <Reference Include="ClassLibrarySleepTracker">
       <HintPath>..\..\ClassLibrarySleepTracker\ClassLibrarySleepTracker\bin\Debug\net5.0\ClassLibrarySleepTracker.dll</HintPath>
     </Reference>
+    <Reference Include="ClassLibraryStepTracker">
+      <HintPath>..\..\ClassLibraryStepTracker\ClassLibraryStepTracker\bin\Debug\net5.0\ClassLibraryStepTracker.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
