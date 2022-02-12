@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\bin\Debug\net5.0\ClassLibrarySleepTracker.deps.json
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\bin\Debug\net5.0\ClassLibrarySleepTracker.dll
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\bin\Debug\net5.0\ref\ClassLibrarySleepTracker.dll
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\bin\Debug\net5.0\ClassLibrarySleepTracker.pdb
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\obj\Debug\net5.0\ClassLibrarySleepTracker.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\obj\Debug\net5.0\ClassLibrarySleepTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\obj\Debug\net5.0\ClassLibrarySleepTracker.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\obj\Debug\net5.0\ClassLibrarySleepTracker.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\obj\Debug\net5.0\ClassLibrarySleepTracker.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\obj\Debug\net5.0\ClassLibrarySleepTracker.dll
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\obj\Debug\net5.0\ref\ClassLibrarySleepTracker.dll
+C:\Users\ASUS\source\repos\ClassLibrarySleepTracker\ClassLibrarySleepTracker\obj\Debug\net5.0\ClassLibrarySleepTracker.pdb
